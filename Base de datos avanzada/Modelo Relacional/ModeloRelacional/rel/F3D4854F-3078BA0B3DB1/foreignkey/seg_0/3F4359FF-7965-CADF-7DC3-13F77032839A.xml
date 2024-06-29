@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="3F4359FF-7965-CADF-7DC3-13F77032839A" containerWithKeyObject="AAC77594-FFFD-6019-4E83-C1E30203BBAD" localFKIndex="987122D4-90A4-596F-F973-71E6F5BEDF60" name="detenciones_personas_fk">
+<sourceDDLFile>Scrip.ddl</sourceDDLFile>
+<createdBy>USUARIO</createdBy>
+<createdTime>2024-06-29 00:58:31 UTC</createdTime>
+<ownerDesignName>ModeloRelacional</ownerDesignName>
+<referredTableLongName>personas</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>07C47604-3B42-E105-82FC-96479EF90FB3</referredTableID>
+<keyObject>7B9C229C-E883-BD79-7D09-3CABCDD252B3</keyObject>
+<referredKeyID>7B9C229C-E883-BD79-7D09-3CABCDD252B3</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>id_personas</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

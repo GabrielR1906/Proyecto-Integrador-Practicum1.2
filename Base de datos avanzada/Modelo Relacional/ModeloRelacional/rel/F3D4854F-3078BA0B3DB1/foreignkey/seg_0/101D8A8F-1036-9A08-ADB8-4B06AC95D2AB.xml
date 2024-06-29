@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="101D8A8F-1036-9A08-ADB8-4B06AC95D2AB" containerWithKeyObject="D6B55A0A-49E0-9842-CAAB-602B57EE3EE2" localFKIndex="E4150C7C-A763-A2BC-402B-63AB6376BAA1" name="circuitos_distritos_FK">
+<createdBy>USUARIO</createdBy>
+<createdTime>2024-06-29 01:08:12 UTC</createdTime>
+<ownerDesignName>ModeloRelacional</ownerDesignName>
+<referredTableLongName>distritos</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>F9FE0295-0230-2BDB-3D6E-19E28698A51B</referredTableID>
+<keyObject>1EAA8C5E-6FFF-26C8-D766-E1D9480428FA</keyObject>
+<referredKeyID>1EAA8C5E-6FFF-26C8-D766-E1D9480428FA</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>codigo_distrito</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="D85795E8-8536-D13D-47ED-011000E1E5F8" containerWithKeyObject="67ADF91B-1439-B80E-D85C-AC25A618A817" localFKIndex="D5B2D4F1-291F-8A66-DF93-8C67755D6F40" name="subcircuitos_circuitos_FK">
+<createdBy>USUARIO</createdBy>
+<createdTime>2024-06-29 01:08:29 UTC</createdTime>
+<ownerDesignName>ModeloRelacional</ownerDesignName>
+<referredTableLongName>circuitos</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>D6B55A0A-49E0-9842-CAAB-602B57EE3EE2</referredTableID>
+<keyObject>875D57B4-849E-F60A-A168-2750B503C107</keyObject>
+<referredKeyID>875D57B4-849E-F60A-A168-2750B503C107</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>codigo_circuito</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

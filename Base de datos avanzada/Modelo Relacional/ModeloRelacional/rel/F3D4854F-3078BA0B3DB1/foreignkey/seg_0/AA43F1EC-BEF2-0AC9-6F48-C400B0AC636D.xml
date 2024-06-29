@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="AA43F1EC-BEF2-0AC9-6F48-C400B0AC636D" containerWithKeyObject="886D6C8A-BD9C-92A8-2598-AEAD3EE1DB5B" localFKIndex="BA827E61-D64E-FFFB-DC55-49A37D126CC3" name="cantones_detenciones_FK">
+<createdBy>USUARIO</createdBy>
+<createdTime>2024-06-29 01:04:22 UTC</createdTime>
+<ownerDesignName>ModeloRelacional</ownerDesignName>
+<referredTableLongName>detenciones</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>AAC77594-FFFD-6019-4E83-C1E30203BBAD</referredTableID>
+<keyObject>B625B6C0-6597-32B3-3324-2FFA597015C9</keyObject>
+<referredKeyID>B625B6C0-6597-32B3-3324-2FFA597015C9</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>id_detencion</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>
