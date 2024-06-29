@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.relational.RelationalDesign>
+   <object objectType="sub_view" objectID="2E3C124E-079F-56F9-1C13-AC352D53C913" name="SCHEMA8" visible="false"/>
+   <object objectType="main_view" objectID="40A7031E-C750-252A-0361-35AE1157763D" name="Relational_1" visible="true"/>
+   <object objectType="sub_view" objectID="50028E1E-552B-A657-76CF-E068EDDFF1E0" name="SCHEMA5" visible="false"/>
+   <object objectType="sub_view" objectID="527B3123-A871-110F-503E-EC41BB4F419C" name="SCHEMA2" visible="false"/>
+   <object objectType="sub_view" objectID="846AE9D7-1595-83B5-DF8C-F55A0CB7CB51" name="SCHEMA6" visible="false"/>
+   <object objectType="sub_view" objectID="89859D92-8225-B399-F378-09231D8A8DE2" name="SCHEMA9" visible="false"/>
+   <object objectType="sub_view" objectID="9E8D87F1-E87F-F5EA-75C8-A4E67D727EAA" name="SCHEMA3" visible="false"/>
+   <object objectType="sub_view" objectID="AA9EB508-C542-F38E-C230-ECA725F050E4" name="SCHEMA7" visible="false"/>
+   <object objectType="sub_view" objectID="B61F52FA-EC4E-F278-6A8E-ECBC4D89D01C" name="SCHEMA1" visible="false"/>
+   <object objectType="sub_view" objectID="C300737D-6409-1279-C78D-5F4D6BBC7180" name="SCHEMA4" visible="false"/>
+</oracle.dbtools.crest.model.design.relational.RelationalDesign>
