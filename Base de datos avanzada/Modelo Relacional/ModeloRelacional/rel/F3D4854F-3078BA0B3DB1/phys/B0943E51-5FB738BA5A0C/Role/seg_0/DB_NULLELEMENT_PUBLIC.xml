@@ -1,0 +1,9 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<RoleSqlServerv2k5 class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.RoleSqlServerv2k5" directorySegmentName="seg_0" id="DB_NULLELEMENT_PUBLIC" name="PUBLIC">
+<createdBy>USUARIO</createdBy>
+<createdTime>2024-06-29 00:58:31 UTC</createdTime>
+<ownerDesignName>ModeloRelacional</ownerDesignName>
+<nullInstance>true</nullInstance>
+<storableNullInstance>true</storableNullInstance>
+<database>DB_NULLELEMENT</database>
+</RoleSqlServerv2k5>
