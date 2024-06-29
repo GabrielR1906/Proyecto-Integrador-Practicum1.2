@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<StorageDesignSqlServerv2k5 class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.StorageDesignSqlServerv2k5" name="SQL Server 2005" id="9EFB03CE-DAFA-A284-6159-24E043F5CA01" siteID="B0943E51-0387-1F2A-CED9-5FB738BA5A0C" siteName="SQL Server 2005" siteType="5">
-<createdBy>USUARIO</createdBy>
-<createdTime>2024-06-29 00:58:31 UTC</createdTime>
-<ownerDesignName>ModeloRelacional</ownerDesignName>
-<dtdialogVisible>false</dtdialogVisible>
-<imported>false</imported>
-</StorageDesignSqlServerv2k5>
